@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junyi Ao (敖君逸)"
+  name             : "Qingzheng WANG(王清正)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Student at the Chinese University of Hong Kong, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "Bachelor student at Wuhan University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eUiG0O0AAAAJ"
-  email            : "junyiao1@link.cuhk.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "qingzhengwang@whu.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ajyy" # e.g., "github username"
+  github           : "Qingzheng-Wang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
