@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "About Me"
-  #  url: "/pages/"
+  - title: "CV"
+    url: "/pages/qingzhengwang_cv.pdf"
 
   # - title: "News"
   #   url: "/#-news"
