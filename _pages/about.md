@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Bachelor student majoring computer science at [Wuhan University](https://en.whu.edu.cn/), China.
+Hi, I am a Bachelor student majoring computer science at [Wuhan University](https://en.whu.edu.cn/), China. I’m hoping for pursuing the PhD degree in the future and preparing for applying.
 
-# 📝 Publications
+# 📝 Publication
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -33,7 +33,15 @@ Hi, I am a Bachelor student majoring computer science at [Wuhan University](http
 </div>
 </div> -->
 
-# 📖 Educations
+# 📖 Education
+
 - 2020-present, B.Eng, Wuhan University.
 
-# 💻 Internships
+# 💻 Experience
+
+- **National Engineering Research Center For Multimedia Software** 
+
+​		*Supervisor: A.P. Yuhong Yang* 
+
+​		*April 2021 - now*
+
