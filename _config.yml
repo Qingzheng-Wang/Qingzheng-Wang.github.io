@@ -25,7 +25,7 @@ author:
   avatar           : "images/wqz-icon.png"
   bio              : "Bachelor student at Wuhan University"
   location         : "Wuhan, China"
-  cv               : "https://qingzheng-wang.github.io/docs/qingzhengwang_cv.pdf"
+  cv               : 
   pubmed           : 
   googlescholar    : 
   email            : "qingzhengwang@whu.edu.cn"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://qingzheng-wang.github.io/docs/qingzhengwang_cv.pdf"
   vine             :
   weibo            :
   xing             :
