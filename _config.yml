@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingzheng Wang"
+title                    : "Qingzheng WANG"
 description              :
 repository               : "Qingzheng-Wang/qingzhengwang.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ author:
   avatar           : "images/wqz-icon.png"
   bio              : "Bachelor student at Wuhan University"
   location         : "Wuhan, China"
-  employer         :
+  cv               : "https://qingzheng-wang.github.io/docs/qingzhengwang_cv.pdf"
   pubmed           : 
   googlescholar    : 
   email            : "qingzhengwang@whu.edu.cn"
