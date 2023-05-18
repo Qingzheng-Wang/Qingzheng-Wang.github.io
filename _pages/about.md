@@ -40,8 +40,6 @@ Hi, I am a Bachelor student majoring computer science at [Wuhan University](http
 # 💻 Experience
 
 - **National Engineering Research Center For Multimedia Software** 
-
-​		*Supervisor: A.P. Yuhong Yang* 
-
-​		*April 2021 - now*
+  - *Supervisor: A.P. Yuhong Yang* 
+  - *April 2021 - now*
 
