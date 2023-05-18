@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingzheng WANG(王清正)"
+  name             : "Qingzheng WANG"
   avatar           : "images/wqz-icon.png"
   bio              : "Bachelor student at Wuhan University"
   location         : "Wuhan, China"
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/287/8250.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
