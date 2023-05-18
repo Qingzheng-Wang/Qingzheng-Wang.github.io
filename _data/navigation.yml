@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "https://qingzheng-wang.github.io/docs/qingzhengwang_cv.pdf"
+    url: "cv/qingzhengwang_cv"
 
   # - title: "News"
   #   url: "/#-news"
