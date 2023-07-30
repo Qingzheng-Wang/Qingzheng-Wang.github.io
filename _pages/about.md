@@ -39,7 +39,11 @@ Hi, I am a Bachelor student majoring computer science at [Wuhan University](http
 
 # 💻 Experience
 
-- **National Engineering Research Center For Multimedia Software** 
+- **[National Engineering Research Center For Multimedia Software](http://multimedia.whu.edu.cn/index.php?lang=2), Wuhan University** 
   - *Supervisor: A.P. Yuhong Yang* 
-  - *April 2021 - now*
+  - *April 2021 - June 2023*
+-  **[Audio Signal and Information Processing Lab](https://audio.westlake.edu.cn/index.htm), Westlake University**
+  - *Visiting Student*
+  - *Supervisor: A.P. Xiaofei Li*
+  - *July 2023 - now*
 
