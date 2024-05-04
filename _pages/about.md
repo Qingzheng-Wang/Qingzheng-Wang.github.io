@@ -48,5 +48,7 @@ redirect_from:
   - June 2022 -- July 2022, June 2023 -- July 2024
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kZtsgrJQzfnrgaCjxqrw_1Hl8XlX44oaU-s8tEkAxXs&cl=ffffff&w=a"></script>
+<div style="text-align: center;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kZtsgrJQzfnrgaCjxqrw_1Hl8XlX44oaU-s8tEkAxXs&cl=ffffff&w=a"></script>
+</div>
 
