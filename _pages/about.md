@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Bachelor student majoring computer science at [Wuhan University](https://en.whu.edu.cn/), China. I’m hoping for pursuing the PhD degree in the future and preparing for applying.
-
 # 📝 Publication
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -35,17 +33,20 @@ Hi, I am a Bachelor student majoring computer science at [Wuhan University](http
 
 # 📖 Education
 
-- 2020-present, B.Eng, Wuhan University.
+- September 2020 -- June 2024, B.Eng in Computer Science and Technology, Wuhan University.
 
 # 💻 Experience
 
-- **[National Engineering Research Center For Multimedia Software](http://multimedia.whu.edu.cn/index.php?lang=2), Wuhan University** 
-  - *Supervisor: A.P. Yuhong Yang* 
-  - *April 2021 - June 2023*
 -  **[Audio Signal and Information Processing Lab](https://audio.westlake.edu.cn/index.htm), Westlake University**
-  - *Visiting Student*
-  - *Supervisor: A.P. Xiaofei Li*
-  - *July 2023 - now*
+  - Visiting Student
+  - Supervisor: [Professor Xiaofei Li](https://en.westlake.edu.cn/faculty/xiaofei-li.html)
+  - July 2023 - February 2024
+
+- **[National Engineering Research Center For Multimedia Software](http://multimedia.whu.edu.cn/index.php?lang=2), Wuhan University**
+  - Student Assistant  
+  - Supervisor: Professor Yuhong Yang
+  - June 2022 -- July 2022, June 2023 -- July 2024
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kZtsgrJQzfnrgaCjxqrw_1Hl8XlX44oaU-s8tEkAxXs&cl=ffffff&w=a"></script>
 
